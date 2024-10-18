@@ -21,7 +21,7 @@ Follow the steps below to set up and run the application.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/vinayakyan/dynasas.git
 cd dynasas
 
 ### 2. Setup the virtual environment
